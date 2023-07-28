@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+echo  "checking on pre commit....."
+echo ""
+echo ""
+sleep 10

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+echo  "checking on pre push....."
+echo ""
+echo ""
+sleep 10
